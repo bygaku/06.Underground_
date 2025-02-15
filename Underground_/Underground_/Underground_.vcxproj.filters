@@ -11,9 +11,12 @@
     <ClCompile Include="SceneManager.cpp">
       <Filter>Scene</Filter>
     </ClCompile>
+<<<<<<< HEAD
     <ClCompile Include="IScene.cpp">
       <Filter>Scene</Filter>
     </ClCompile>
+=======
+>>>>>>> feature/Class-SceneManager
   </ItemGroup>
   <ItemGroup>
     <Filter Include="Setting">
@@ -36,8 +39,11 @@
     <ClInclude Include="SceneManager.h">
       <Filter>Scene</Filter>
     </ClInclude>
+<<<<<<< HEAD
     <ClInclude Include="IScene.h">
       <Filter>Scene</Filter>
     </ClInclude>
+=======
+>>>>>>> feature/Class-SceneManager
   </ItemGroup>
 </Project>
