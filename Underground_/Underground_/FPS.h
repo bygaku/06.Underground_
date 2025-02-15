@@ -25,9 +25,9 @@ private:
 	static constexpr float k_MicroSecond  = 1000000.0f;	/// @brief １マイクロ秒
 
 private:
-	long long m_startTime = 0;			/// @brief １フレーム目の計測時間
-	long long m_nowTime   = 0;			/// @brief 現在の計測時間
-	long long m_prevTime  = 0;			/// @brief 以前の計測時間
+	LONGLONG m_startTime = 0;			/// @brief １フレーム目の計測時間
+	LONGLONG m_nowTime   = 0;			/// @brief 現在の計測時間
+	LONGLONG m_prevTime  = 0;			/// @brief 以前の計測時間
 	int	  m_frameCount    = 1;			/// @brief 現在のフレーム数
 	float m_average       = 0.0f;		/// @brief 平均FPS値
 	float m_deltaTime     = 0.000001f;	/// @brief デルタタイム	

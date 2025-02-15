@@ -5,6 +5,9 @@
     <ClCompile Include="FPS.cpp">
       <Filter>Setting</Filter>
     </ClCompile>
+    <ClCompile Include="LoopCondition.cpp">
+      <Filter>Setting</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Filter Include="Setting">
@@ -13,6 +16,12 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="FPS.h">
+      <Filter>Setting</Filter>
+    </ClInclude>
+    <ClInclude Include="LoopCondition.h">
+      <Filter>Setting</Filter>
+    </ClInclude>
+    <ClInclude Include="Screen.h">
       <Filter>Setting</Filter>
     </ClInclude>
   </ItemGroup>
