@@ -8,10 +8,19 @@
     <ClCompile Include="LoopCondition.cpp">
       <Filter>Setting</Filter>
     </ClCompile>
+    <ClCompile Include="SceneManager.cpp">
+      <Filter>Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="IScene.cpp">
+      <Filter>Scene</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Filter Include="Setting">
       <UniqueIdentifier>{6e020b25-3fdb-4586-b993-8a7220e7bb52}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Scene">
+      <UniqueIdentifier>{ce15dd7d-f642-4a04-999d-9c3072d537f2}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
@@ -23,6 +32,12 @@
     </ClInclude>
     <ClInclude Include="Screen.h">
       <Filter>Setting</Filter>
+    </ClInclude>
+    <ClInclude Include="SceneManager.h">
+      <Filter>Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="IScene.h">
+      <Filter>Scene</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
