@@ -2,5 +2,18 @@
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
     <ClCompile Include="Main.cpp" />
+    <ClCompile Include="FPS.cpp">
+      <Filter>Setting</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Setting">
+      <UniqueIdentifier>{6e020b25-3fdb-4586-b993-8a7220e7bb52}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="FPS.h">
+      <Filter>Setting</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
