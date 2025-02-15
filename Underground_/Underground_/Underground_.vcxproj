@@ -134,12 +134,16 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="FPS.cpp" />
+    <ClCompile Include="IScene.cpp" />
     <ClCompile Include="LoopCondition.cpp" />
     <ClCompile Include="Main.cpp" />
+    <ClCompile Include="SceneManager.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="FPS.h" />
+    <ClInclude Include="IScene.h" />
     <ClInclude Include="LoopCondition.h" />
+    <ClInclude Include="SceneManager.h" />
     <ClInclude Include="Screen.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
