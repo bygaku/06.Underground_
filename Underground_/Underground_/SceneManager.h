@@ -41,9 +41,9 @@ public:
 
 private:
     std::unordered_map<std::string_view, IScene*> m_scenes; /// @brief シーンコンテナ
-    IScene* m_currentScene;      /// @brief 現行シーン
-    FPS* m_fps;               /// @brief 時間管理
+    IScene* m_currentScene;         /// @brief 現行シーン
+    FPS* m_fps;                     /// @brief 時間管理
 
 private:
-    float m_timeFromBoot = 0.0f;	/// @brief タイマー
+    float m_timeFromBoot = 0.0f;    /// @brief タイマー
 };

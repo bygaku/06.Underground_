@@ -3,46 +3,32 @@
   "WorkspaceRootPath": "D:\\musicbyGaku\\10.My Game Folder\\02.Other2DGame\\06.Underground_\\Underground_\\",
   "Documents": [
     {
-<<<<<<< HEAD
-      "AbsoluteMoniker": "D:0:0:{8A4FEAC5-F1DF-4739-A92B-EA3E3E37FD33}|Underground_\\Underground_.vcxproj|D:\\musicbyGaku\\10.My Game Folder\\02.Other2DGame\\06.Underground_\\Underground_\\Underground_\\IScene.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{8A4FEAC5-F1DF-4739-A92B-EA3E3E37FD33}|Underground_\\Underground_.vcxproj|solutionrelative:Underground_\\IScene.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8A4FEAC5-F1DF-4739-A92B-EA3E3E37FD33}|Underground_\\Underground_.vcxproj|D:\\musicbyGaku\\10.My Game Folder\\02.Other2DGame\\06.Underground_\\Underground_\\Underground_\\IScene.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{8A4FEAC5-F1DF-4739-A92B-EA3E3E37FD33}|Underground_\\Underground_.vcxproj|solutionrelative:Underground_\\IScene.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-=======
->>>>>>> feature/Class-SceneManager
-      "AbsoluteMoniker": "D:0:0:{8A4FEAC5-F1DF-4739-A92B-EA3E3E37FD33}|Underground_\\Underground_.vcxproj|D:\\musicbyGaku\\10.My Game Folder\\02.Other2DGame\\06.Underground_\\Underground_\\Underground_\\SceneManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{8A4FEAC5-F1DF-4739-A92B-EA3E3E37FD33}|Underground_\\Underground_.vcxproj|solutionrelative:Underground_\\SceneManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8A4FEAC5-F1DF-4739-A92B-EA3E3E37FD33}|Underground_\\Underground_.vcxproj|D:\\musicbyGaku\\10.My Game Folder\\02.Other2DGame\\06.Underground_\\Underground_\\Underground_\\SceneManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{8A4FEAC5-F1DF-4739-A92B-EA3E3E37FD33}|Underground_\\Underground_.vcxproj|solutionrelative:Underground_\\SceneManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-<<<<<<< HEAD
-=======
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8A4FEAC5-F1DF-4739-A92B-EA3E3E37FD33}|Underground_\\Underground_.vcxproj|D:\\musicbyGaku\\10.My Game Folder\\02.Other2DGame\\06.Underground_\\Underground_\\Underground_\\IScene.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{8A4FEAC5-F1DF-4739-A92B-EA3E3E37FD33}|Underground_\\Underground_.vcxproj|solutionrelative:Underground_\\IScene.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8A4FEAC5-F1DF-4739-A92B-EA3E3E37FD33}|Underground_\\Underground_.vcxproj|D:\\musicbyGaku\\10.My Game Folder\\02.Other2DGame\\06.Underground_\\Underground_\\Underground_\\IScene.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{8A4FEAC5-F1DF-4739-A92B-EA3E3E37FD33}|Underground_\\Underground_.vcxproj|solutionrelative:Underground_\\IScene.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
->>>>>>> feature/Class-SceneManager
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A4FEAC5-F1DF-4739-A92B-EA3E3E37FD33}|Underground_\\Underground_.vcxproj|D:\\musicbyGaku\\10.My Game Folder\\02.Other2DGame\\06.Underground_\\Underground_\\Underground_\\LoopCondition.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{8A4FEAC5-F1DF-4739-A92B-EA3E3E37FD33}|Underground_\\Underground_.vcxproj|solutionrelative:Underground_\\LoopCondition.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{8A4FEAC5-F1DF-4739-A92B-EA3E3E37FD33}|Underground_\\Underground_.vcxproj|D:\\musicbyGaku\\10.My Game Folder\\02.Other2DGame\\06.Underground_\\Underground_\\Underground_\\FPS.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8A4FEAC5-F1DF-4739-A92B-EA3E3E37FD33}|Underground_\\Underground_.vcxproj|solutionrelative:Underground_\\FPS.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8A4FEAC5-F1DF-4739-A92B-EA3E3E37FD33}|Underground_\\Underground_.vcxproj|D:\\musicbyGaku\\10.My Game Folder\\02.Other2DGame\\06.Underground_\\Underground_\\Underground_\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{8A4FEAC5-F1DF-4739-A92B-EA3E3E37FD33}|Underground_\\Underground_.vcxproj|solutionrelative:Underground_\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A4FEAC5-F1DF-4739-A92B-EA3E3E37FD33}|Underground_\\Underground_.vcxproj|D:\\musicbyGaku\\10.My Game Folder\\02.Other2DGame\\06.Underground_\\Underground_\\Underground_\\FPS.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{8A4FEAC5-F1DF-4739-A92B-EA3E3E37FD33}|Underground_\\Underground_.vcxproj|solutionrelative:Underground_\\FPS.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{8A4FEAC5-F1DF-4739-A92B-EA3E3E37FD33}|Underground_\\Underground_.vcxproj|D:\\musicbyGaku\\10.My Game Folder\\02.Other2DGame\\06.Underground_\\Underground_\\Underground_\\SceneManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8A4FEAC5-F1DF-4739-A92B-EA3E3E37FD33}|Underground_\\Underground_.vcxproj|solutionrelative:Underground_\\SceneManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A4FEAC5-F1DF-4739-A92B-EA3E3E37FD33}|Underground_\\Underground_.vcxproj|D:\\musicbyGaku\\10.My Game Folder\\02.Other2DGame\\06.Underground_\\Underground_\\Underground_\\SceneManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8A4FEAC5-F1DF-4739-A92B-EA3E3E37FD33}|Underground_\\Underground_.vcxproj|solutionrelative:Underground_\\SceneManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A4FEAC5-F1DF-4739-A92B-EA3E3E37FD33}|Underground_\\Underground_.vcxproj|D:\\musicbyGaku\\10.My Game Folder\\02.Other2DGame\\06.Underground_\\Underground_\\Underground_\\LoopCondition.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8A4FEAC5-F1DF-4739-A92B-EA3E3E37FD33}|Underground_\\Underground_.vcxproj|solutionrelative:Underground_\\LoopCondition.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8A4FEAC5-F1DF-4739-A92B-EA3E3E37FD33}|Underground_\\Underground_.vcxproj|D:\\musicbyGaku\\10.My Game Folder\\02.Other2DGame\\06.Underground_\\Underground_\\Underground_\\Screen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -64,100 +50,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 220,
-<<<<<<< HEAD
-          "SelectedChildIndex": 2,
-=======
-          "SelectedChildIndex": 4,
->>>>>>> feature/Class-SceneManager
+          "SelectedChildIndex": 15,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "Main.cpp",
               "DocumentMoniker": "D:\\musicbyGaku\\10.My Game Folder\\02.Other2DGame\\06.Underground_\\Underground_\\Underground_\\Main.cpp",
               "RelativeDocumentMoniker": "Underground_\\Main.cpp",
               "ToolTip": "D:\\musicbyGaku\\10.My Game Folder\\02.Other2DGame\\06.Underground_\\Underground_\\Underground_\\Main.cpp",
               "RelativeToolTip": "Underground_\\Main.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAACAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-02-15T12:05:11.948Z",
               "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-<<<<<<< HEAD
-              "DocumentIndex": 1,
-=======
-              "DocumentIndex": 2,
->>>>>>> feature/Class-SceneManager
-              "Title": "IScene.cpp",
-              "DocumentMoniker": "D:\\musicbyGaku\\10.My Game Folder\\02.Other2DGame\\06.Underground_\\Underground_\\Underground_\\IScene.cpp",
-              "RelativeDocumentMoniker": "Underground_\\IScene.cpp",
-              "ToolTip": "D:\\musicbyGaku\\10.My Game Folder\\02.Other2DGame\\06.Underground_\\Underground_\\Underground_\\IScene.cpp",
-              "RelativeToolTip": "Underground_\\IScene.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-02-15T13:19:24.021Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-<<<<<<< HEAD
-              "DocumentIndex": 0,
-=======
-              "DocumentIndex": 3,
->>>>>>> feature/Class-SceneManager
-              "Title": "IScene.h",
-              "DocumentMoniker": "D:\\musicbyGaku\\10.My Game Folder\\02.Other2DGame\\06.Underground_\\Underground_\\Underground_\\IScene.h",
-              "RelativeDocumentMoniker": "Underground_\\IScene.h",
-              "ToolTip": "D:\\musicbyGaku\\10.My Game Folder\\02.Other2DGame\\06.Underground_\\Underground_\\Underground_\\IScene.h",
-              "RelativeToolTip": "Underground_\\IScene.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-02-15T13:19:03.091Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-<<<<<<< HEAD
-              "DocumentIndex": 3,
-=======
-              "DocumentIndex": 1,
->>>>>>> feature/Class-SceneManager
-              "Title": "SceneManager.cpp",
-              "DocumentMoniker": "D:\\musicbyGaku\\10.My Game Folder\\02.Other2DGame\\06.Underground_\\Underground_\\Underground_\\SceneManager.cpp",
-              "RelativeDocumentMoniker": "Underground_\\SceneManager.cpp",
-              "ToolTip": "D:\\musicbyGaku\\10.My Game Folder\\02.Other2DGame\\06.Underground_\\Underground_\\Underground_\\SceneManager.cpp",
-              "RelativeToolTip": "Underground_\\SceneManager.cpp",
-<<<<<<< HEAD
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
-=======
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAD0AAAAhAAAA",
->>>>>>> feature/Class-SceneManager
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-02-15T13:15:29.476Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-<<<<<<< HEAD
-              "DocumentIndex": 2,
-=======
-              "DocumentIndex": 0,
->>>>>>> feature/Class-SceneManager
-              "Title": "SceneManager.h",
-              "DocumentMoniker": "D:\\musicbyGaku\\10.My Game Folder\\02.Other2DGame\\06.Underground_\\Underground_\\Underground_\\SceneManager.h",
-              "RelativeDocumentMoniker": "Underground_\\SceneManager.h",
-              "ToolTip": "D:\\musicbyGaku\\10.My Game Folder\\02.Other2DGame\\06.Underground_\\Underground_\\Underground_\\SceneManager.h",
-              "RelativeToolTip": "Underground_\\SceneManager.h",
-<<<<<<< HEAD
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
-=======
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAPAAAA",
->>>>>>> feature/Class-SceneManager
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-02-15T13:15:25.863Z",
               "EditorCaption": ""
             },
             {
@@ -218,6 +124,58 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IScene.cpp",
+              "DocumentMoniker": "D:\\musicbyGaku\\10.My Game Folder\\02.Other2DGame\\06.Underground_\\Underground_\\Underground_\\IScene.cpp",
+              "RelativeDocumentMoniker": "Underground_\\IScene.cpp",
+              "ToolTip": "D:\\musicbyGaku\\10.My Game Folder\\02.Other2DGame\\06.Underground_\\Underground_\\Underground_\\IScene.cpp",
+              "RelativeToolTip": "Underground_\\IScene.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-15T13:19:24.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IScene.h",
+              "DocumentMoniker": "D:\\musicbyGaku\\10.My Game Folder\\02.Other2DGame\\06.Underground_\\Underground_\\Underground_\\IScene.h",
+              "RelativeDocumentMoniker": "Underground_\\IScene.h",
+              "ToolTip": "D:\\musicbyGaku\\10.My Game Folder\\02.Other2DGame\\06.Underground_\\Underground_\\Underground_\\IScene.h",
+              "RelativeToolTip": "Underground_\\IScene.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-15T13:19:03.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SceneManager.cpp",
+              "DocumentMoniker": "D:\\musicbyGaku\\10.My Game Folder\\02.Other2DGame\\06.Underground_\\Underground_\\Underground_\\SceneManager.cpp",
+              "RelativeDocumentMoniker": "Underground_\\SceneManager.cpp",
+              "ToolTip": "D:\\musicbyGaku\\10.My Game Folder\\02.Other2DGame\\06.Underground_\\Underground_\\Underground_\\SceneManager.cpp",
+              "RelativeToolTip": "Underground_\\SceneManager.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-15T13:15:29.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SceneManager.h",
+              "DocumentMoniker": "D:\\musicbyGaku\\10.My Game Folder\\02.Other2DGame\\06.Underground_\\Underground_\\Underground_\\SceneManager.h",
+              "RelativeDocumentMoniker": "Underground_\\SceneManager.h",
+              "ToolTip": "D:\\musicbyGaku\\10.My Game Folder\\02.Other2DGame\\06.Underground_\\Underground_\\Underground_\\SceneManager.h",
+              "RelativeToolTip": "Underground_\\SceneManager.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-15T13:15:25.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 7,
               "Title": "Screen.h",
               "DocumentMoniker": "D:\\musicbyGaku\\10.My Game Folder\\02.Other2DGame\\06.Underground_\\Underground_\\Underground_\\Screen.h",
@@ -230,7 +188,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "LoopCondition.cpp",
               "DocumentMoniker": "D:\\musicbyGaku\\10.My Game Folder\\02.Other2DGame\\06.Underground_\\Underground_\\Underground_\\LoopCondition.cpp",
               "RelativeDocumentMoniker": "Underground_\\LoopCondition.cpp",
@@ -238,8 +196,7 @@
               "RelativeToolTip": "Underground_\\LoopCondition.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-02-15T12:53:50.212Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-15T12:53:50.212Z"
             },
             {
               "$type": "Document",
@@ -267,7 +224,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "FPS.cpp",
               "DocumentMoniker": "D:\\musicbyGaku\\10.My Game Folder\\02.Other2DGame\\06.Underground_\\Underground_\\Underground_\\FPS.cpp",
               "RelativeDocumentMoniker": "Underground_\\FPS.cpp",

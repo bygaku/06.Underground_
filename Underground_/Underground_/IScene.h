@@ -24,7 +24,7 @@ protected:
 	/// @brief シーンの切替前の処理を行います。
 	virtual void SceneFinalizeCondition() {};
 private:
-	IScene& m_manager;	/// @brief シーンマネージャーの参照
+	SceneManager& m_manager;	/// @brief シーンマネージャーの参照
 
 protected:
 	float m_timeScene = 0.0f;	/// @brief Time from current scene.

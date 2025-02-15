@@ -10,7 +10,7 @@
 #include "FPS.h"
 
 /// @brief Header for added scenes and management class.
-
+#include "SceneManager.h"
 
 
 int WINAPI WinMain(_In_		HINSTANCE hInstance,
@@ -23,10 +23,14 @@ int WINAPI WinMain(_In_		HINSTANCE hInstance,
 	if (DxLib_Init() == -1)	return -1;
 	SetDrawScreen(DX_SCREEN_BACK);
 
+	SceneManager sceneManager;
+
+
 
 	while (LoopCondition())
 	{
-
+		sceneManager.Update();
+		sceneManager.Draw();
 	}
 
 
