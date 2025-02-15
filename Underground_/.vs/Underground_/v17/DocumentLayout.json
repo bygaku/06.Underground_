@@ -1,7 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\musicbyGaku\\10.My Game Folder\\02.Other2DGame\\06.Underground_\\Underground_\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A4FEAC5-F1DF-4739-A92B-EA3E3E37FD33}|Underground_\\Underground_.vcxproj|D:\\musicbyGaku\\10.My Game Folder\\02.Other2DGame\\06.Underground_\\Underground_\\Underground_\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8A4FEAC5-F1DF-4739-A92B-EA3E3E37FD33}|Underground_\\Underground_.vcxproj|solutionrelative:Underground_\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 220,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 14,
           "Children": [
             {
               "$type": "Bookmark",
@@ -66,6 +71,19 @@
             {
               "$type": "Bookmark",
               "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "D:\\musicbyGaku\\10.My Game Folder\\02.Other2DGame\\06.Underground_\\Underground_\\Underground_\\Main.cpp",
+              "RelativeDocumentMoniker": "Underground_\\Main.cpp",
+              "ToolTip": "D:\\musicbyGaku\\10.My Game Folder\\02.Other2DGame\\06.Underground_\\Underground_\\Underground_\\Main.cpp",
+              "RelativeToolTip": "Underground_\\Main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-15T12:05:11.948Z",
+              "EditorCaption": ""
             }
           ]
         },
